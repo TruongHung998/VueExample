@@ -1,0 +1,92 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "blogImage": "/images/blog/medium-size/1-1-352x273.webp",
+            "alt": "Blog Image",
+            "by": "By",
+            "catname": "Walter Houston",
+            "title": "All of these amazing features come at an affordable price!",
+            "desc": "Lorem Ipsum is simply dummy text themes print industry orem psum has been them industry spa also the loep into type setting.",
+            "date": "15 Feb, 2021",
+            "time": "10 min read"
+        },
+        {
+            "id": 2,
+            "blogImage": "/images/blog/medium-size/1-2-352x273.webp",
+            "alt": "Blog Image",
+            "by": "By",
+            "catname": "James Buston",
+            "title": "With WooLentor's drag-and drop interface for creating...",
+            "desc": "Lorem Ipsum is simply dummy text themes print industry orem psum has been them industry spa also the loep into type setting.",
+            "date": "22 July, 2021",
+            "time": "10 min read"
+        },
+        {
+            "id": 3,
+            "blogImage": "/images/blog/medium-size/1-3-352x273.webp",
+            "alt": "Blog Image",
+            "by": "By",
+            "catname": "Catherin Bettly",
+            "title": "Here's what no one tells you about landing page.....",
+            "desc": "Lorem Ipsum is simply dummy text themes print industry orem psum has been them industry spa also the loep into type setting.",
+            "date": "18 Aug, 2021",
+            "time": "10 min read"
+        },
+        {
+            "id": 4,
+            "blogImage": "/images/blog/medium-size/1-4-352x273.webp",
+            "alt": "Blog Image",
+            "by": "By",
+            "catname": "John Herry",
+            "title": "Make your store stand out from the others by converting",
+            "desc": "Lorem Ipsum is simply dummy text themes print industry orem psum has been them industry spa also the loep into type setting.",
+            "date": "03 Apr, 2021",
+            "time": "10 min read"
+        },
+        {
+            "id": 5,
+            "blogImage": "/images/blog/medium-size/1-5-352x273.webp",
+            "alt": "Blog Image",
+            "by": "By",
+            "catname": "Tarbo Tenny",
+            "title": "Decide the best way to communicate that single...",
+            "desc": "Lorem Ipsum is simply dummy text themes print industry orem psum has been them industry spa also the loep into type setting.",
+            "date": "14 Dec, 2021",
+            "time": "10 min read"
+        },
+        {
+            "id": 6,
+            "blogImage": "/images/blog/medium-size/1-6-352x273.webp",
+            "alt": "Blog Image",
+            "by": "By",
+            "catname": "Mercy Cristal",
+            "title": "What we do when (Almost) everyone gets It wrong...",
+            "desc": "Lorem Ipsum is simply dummy text themes print industry orem psum has been them industry spa also the loep into type setting.",
+            "date": "05 Jan, 2021",
+            "time": "10 min read"
+        },
+        {
+            "id": 7,
+            "blogImage": "/images/blog/medium-size/1-7-352x273.webp",
+            "alt": "Blog Image",
+            "by": "By",
+            "catname": "Pretty Parsin",
+            "title": "Productivity strategies backed by science creating...",
+            "desc": "Lorem Ipsum is simply dummy text themes print industry orem psum has been them industry spa also the loep into type setting.",
+            "date": "03 Apr, 2021",
+            "time": "10 min read"
+        },
+        {
+            "id": 8,
+            "blogImage": "/images/blog/medium-size/1-8-352x273.webp",
+            "alt": "Blog Image",
+            "by": "By",
+            "catname": "Nikly Buston",
+            "title": "Better deliver content that excites as much as the title",
+            "desc": "Lorem Ipsum is simply dummy text themes print industry orem psum has been them industry spa also the loep into type setting.",
+            "date": "11 Mar, 2021",
+            "time": "10 min read"
+        }
+    ]
+}

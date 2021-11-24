@@ -1,0 +1,71 @@
+.home-page {
+  &-style {
+    .home {
+      &-bg {
+        height: 1070px;
+        @include breakpoint(max-xl-device) {
+          height: 950px;
+        }
+        @include breakpoint(max-lg-device) {
+          height: 850px;
+        }
+        @include breakpoint(max-md-device) {
+          height: auto;
+        }
+      }
+
+      &-item {
+        height: 100vh;
+      }
+
+      &-content {
+        padding-top: 240px;
+        text-align: center;
+        @include breakpoint(max-md-device) {
+          padding-top: 50px;
+          padding-bottom: 50px;
+        }
+      }
+    }
+  }
+
+  &-searchbox {
+    position: relative;
+
+    .input-field {
+      background-color: #FFFFFF;
+      border: 1px solid #D7DDF3;
+      font-family: $gordita-font;
+      font-size: 15px;
+      border-radius: 8px;
+      width: 100%;
+      height: 40px;
+      padding-left: 55px;
+      justify-content: center;
+      align-items: center;
+
+      &::placeholder {
+        color: #0a071b;
+        font-size: 12px;
+      }
+    }
+
+    &-btn {
+      background-color: transparent;
+      border: 0;
+      position: absolute;
+      top: 50%;
+      left: 20px;
+      transform: translateY(-50%);
+      padding-right: 0;
+    }
+  }
+
+  &-listbutton {
+    color: $white;
+    border-radius: 5px;
+    border-width: 0px;
+    background-image: linear-gradient(266.33deg, #47A7FF 0%, #0046CF 100%);
+    height: 100%;
+  }
+}

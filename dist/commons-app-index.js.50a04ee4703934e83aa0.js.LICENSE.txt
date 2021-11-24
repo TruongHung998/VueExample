@@ -1,0 +1,6 @@
+/*!
+ * html-tag <https://github.com/jonschlinkert/html-tag>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
